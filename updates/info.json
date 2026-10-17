@@ -3,17 +3,17 @@
   "slug": "admetrics-data-studio",
   "author": "Admetrics GmbH",
   "author_profile": "https://www.admetrics.io/",
-  "version": "0.5.0",
-  "download_url": "https://github.com/nrueckmann/test/releases/download/0.5.0/admetrics-data-studio.zip",
-  "requires": "6.5",
-  "tested": "6.5",
-  "requires_php": "7.0",
-  "last_updated": "2026-09-30 11:44:31",
+  "version": "0.5.1",
+  "download_url": "https://github.com/nrueckmann/test/releases/download/0.5.1/admetrics-data-studio.zip",
+  "requires": "7.1.3",
+  "tested": "7.1.3",
+  "requires_php": "8.2",
+  "last_updated": "2026-10-17 21:51:45",
   "homepage": "https://github.com/nrueckmann/test/",
   "sections": {
     "description": "Connects Admetrics Data Studio with your WooCommerce installation.",
     "installation": "",
-    "changelog": "Will be released with 1.0.0"
+    "changelog": "<h4>0.5.1</h4><ul><li>Standardize installable plugin packages and release metadata.</li><li>Require WordPress 7.1.3 or later and PHP 8.2 or later; tested with WooCommerce 11.2.1.</li><li>Tracking behavior remains unchanged from 0.5.0.</li></ul>"
   },
   "banners": {
     "low": "https://raw.githubusercontent.com/nrueckmann/test/main/updates/admetrics-low-resolution.png",

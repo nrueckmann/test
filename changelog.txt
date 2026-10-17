@@ -1,5 +1,6 @@
-*** WooCommerce Extension Name Changelog ***
+*** Admetrics Data Studio Changelog ***
 
-YYYY-MM-DD - version 1.0.0
-* Initial release
-* Changelog formatted according to https://developer.woocommerce.com/docs/formatting-for-changelog-txt/
+2026-10-17 - version 0.5.1
+* Maintenance - Standardize installable plugin packages and release metadata.
+* Compatibility - Require WordPress 7.1.3 or later and PHP 8.2 or later; tested with WooCommerce 11.2.1.
+* Tracking behavior remains unchanged from version 0.5.0.
